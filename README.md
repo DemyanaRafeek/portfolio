@@ -1,4 +1,4 @@
-# Demyana Rafeek | Flutter Developer Portfolio
+## Demyana Rafeek | Flutter Developer Portfolio
 
 A modern, dark-themed portfolio website showcasing skills, projects, experience, and contact information.
 
@@ -45,4 +45,5 @@ Then visit `http://localhost:8000`
 - Vanilla JavaScript
 - Font Awesome 6 (icons)
 - Google Fonts (Inter)
+
 
